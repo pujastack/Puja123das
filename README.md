@@ -1,7 +1,23 @@
 I'm **[Puja](https://linkedin.com/in/pujastack)** 
 
-* Currently I am working as an intern in Cloudnloud Community
-* I am working on some tools AWS, Git, GitHub, Jenkins, Docker
+- 🔭 Currently I am working as an intern in Cloudnloud Community  
+- 🌱 I am very good in below skills :
+
+- **Linux administration**
+- ** AWS Cloud**
+- **Ansible**
+- **Docker**
+- **Jenkins - DevOps- CI/CD**
+- **GitHub**
+ 
+- ⚡ Fun fact: I am fast learner on any new project environment.
+
+  
+- 🌱 I have contributed to Tech World Community.Some of my niche blogs are :
+
+# Docker Administration
+
+- **[Docker Commands 1](https://blog.cloudnloud.com/docker-administration-series-docker-commands-1)** 
 
 ## Connect with me  
 <a href="https://github.com/Puja123das" target="_blank">
