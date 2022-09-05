@@ -4,7 +4,7 @@ I'm **[Puja](https://linkedin.com/in/pujastack)**
 - 🌱 I am very good in below skills :
 
 - **Linux administration**
-- ** AWS Cloud**
+- **AWS Cloud**
 - **Ansible**
 - **Docker**
 - **Jenkins - DevOps- CI/CD**
