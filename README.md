@@ -1,6 +1,7 @@
 I'm **[Puja](https://linkedin.com/in/pujastack)** 
 
-Currently I am working as an intern in Cloudnloud Community
+* Currently I am working as an intern in Cloudnloud Community
+* I am working on some tools AWS, Git, GitHub, Jenkins, Docker
 
 ## Connect with me  
 <a href="https://github.com/Puja123das" target="_blank">
