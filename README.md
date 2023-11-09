@@ -24,6 +24,7 @@ I'm **[Puja](https://linkedin.com/in/pujastack)**
 
 # Kubernetes Series
 - [𝓘𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓽𝓲𝓸𝓷 𝓣𝓸 𝓚𝓾𝓫𝓮𝓻𝓷𝓮𝓽𝓮s](https://medium.com/cloudnloud/s-c49feb9866e4)
+- [KUBERNETES ARCHITECHURE](https://medium.com/cloudnloud/kubernetes-architechure-175b28fff10f)
 
 ## Connect with me  
 <a href="https://github.com/Puja123das" target="_blank">
