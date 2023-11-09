@@ -9,6 +9,8 @@ I'm **[Puja](https://linkedin.com/in/pujastack)**
 - **Docker**
 - **Jenkins - DevOps- CI/CD**
 - **GitHub**
+- **Terraform**
+- **Kubernetes**
  
 - ⚡ Fun fact: I am fast learner on any new project environment.
 
