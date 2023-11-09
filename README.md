@@ -1,6 +1,6 @@
 I'm **[Puja](https://linkedin.com/in/pujastack)** 
 
-- 🔭 Currently I am working as an intern in Cloudnloud Community  
+- 🔭 Currently I am working as Cloud Engineer in SafexPay 
 - 🌱 I am very good in below skills :
 
 - **Linux administration**
