@@ -24,7 +24,7 @@ I'm **[Puja](https://linkedin.com/in/pujastack)**
 
 # Kubernetes Series
 - [𝓘𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓽𝓲𝓸𝓷 𝓣𝓸 𝓚𝓾𝓫𝓮𝓻𝓷𝓮𝓽𝓮s](https://medium.com/cloudnloud/s-c49feb9866e4)
-- [KUBERNETES ARCHITECHURE](https://medium.com/cloudnloud/kubernetes-architechure-175b28fff10f)
+- [**KUBERNETES ARCHITECHURE**](https://medium.com/cloudnloud/kubernetes-architechure-175b28fff10f)
 - [𝐊𝐔𝐁𝐄𝐑𝐍𝐄𝐓𝐄𝐒 𝐌𝐈𝐍𝐈𝐊𝐔𝐁𝐄 𝐒𝐄𝐓𝐔𝐏](https://medium.com/cloudnloud/-69a3ba48a796)
 - [𝐖𝐇𝐀𝐓 𝐈𝐒 𝐀 𝐏𝐎𝐃 𝐈𝐍 𝐊𝐔𝐁𝐄𝐑𝐍𝐄𝐓𝐄𝐒 ?](https://medium.com/cloudnloud/-7a57920ad0aa)
 - [𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐑𝐞𝐩𝐥𝐢𝐜𝐚𝐒𝐞𝐭 𝐈𝐧 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 !!](https://medium.com/cloudnloud/-23610a87724a)
