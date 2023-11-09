@@ -22,6 +22,9 @@ I'm **[Puja](https://linkedin.com/in/pujastack)**
 - **[Docker Commands 1](https://blog.cloudnloud.com/docker-administration-series-docker-commands-1)** 
 - **[Docker Commands - Class 4](https://blog.cloudnloud.com/docker-administration-series-docker-commands)**
 
+# Kubernetes Series
+- [𝓘𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓽𝓲𝓸𝓷 𝓣𝓸 𝓚𝓾𝓫𝓮𝓻𝓷𝓮𝓽𝓮s](https://medium.com/cloudnloud/s-c49feb9866e4)
+
 ## Connect with me  
 <a href="https://github.com/Puja123das" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
